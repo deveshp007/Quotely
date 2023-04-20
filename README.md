@@ -3,6 +3,9 @@
 ## Description
 Quotely is a simple API that returns random quotes with their respective author names. It can return a single quote or multiple quotes in JSON format.
 
+[Sample webpage created using the API](https://deveshp007.github.io/Quotely/)
+
+
 ## Usage:
 
 ### Single Quote
