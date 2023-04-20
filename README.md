@@ -57,7 +57,7 @@ The API will return an array of JSON objects, each containing a quote and its re
 This API is currently hosted on [Render](https://render.com/), a cloud platform for deploying and scaling web applications. You can easily deploy your own version of this API by following these steps:
 
 1. Clone the GitHub repository: `git clone https://github.com/your_username/quotely-api.git`
-2. Navigate to the project directory: `cd quotely-api`
+2. Navigate to the project directory: `quotely`
 3. Install the required dependencies: `npm install`
 4. Start the server: `npm start`
 5. Your API should now be accessible at `http://localhost:3000/quotes`
